@@ -17,3 +17,5 @@ Link : https://anthropic-partners.skilljar.com/path/claude-certified-developer-f
 - **Domain 6 — Security and Safety (8.1%)**
 - **Domain 7 — Claude Code (3.1%)**
 - **Domain 8 — Eval, Testing, and Debugging (2.6%)**
+
+### Note : Add your own .env file and import common.py to create Anthropic instance for API call
