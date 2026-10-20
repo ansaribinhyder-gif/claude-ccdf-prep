@@ -1,7 +1,7 @@
 # claude-ccdf-prep
 This repository is created to maintain all the hands on sessions for claude certification for developer foundation
 
-# Go through all the prep course for theoratical knowledge
+# Go through all the prep courses to build your fundamentals.
 Link : https://anthropic-partners.skilljar.com/path/claude-certified-developer-foundations
 
 1. Complete all the module stated in the Prep course
@@ -19,3 +19,5 @@ Link : https://anthropic-partners.skilljar.com/path/claude-certified-developer-f
 - **Domain 8 — Eval, Testing, and Debugging (2.6%)**
 
 ### Note : Add your own .env file and import common.py to create Anthropic instance for API call
+
+## Important: This is for hands-on purposes only. Always keep an eye out for the updated Claude prep course.
